@@ -5,28 +5,28 @@
       "time": "10/07/2019 12:07",
       "title": "Demarrage routine",
       "description": "L'appareil 14 a commence sa routine.",
-      "coordinates": "40° 26′ 46″ N 79° 58′ 56″ W"
+      "coordinates" : "test"
     },
     {
       "id": 2,
       "time": "10/07/2019 12:23",
       "title": "Detection anomalie",
-      "description": "L'anomalie suivante a ete detectee : ecartement des rails de 2,14cm.",
-      "coordinates": "40° 26′ 49″ N 79° 57′ 22″ W"
+      "description": "L'anomalie suivante a ete detectee : écartement des rails de 2,14cm.",
+      "coordinates": "test"
     },
     {
       "id": 3,
       "time": "10/07/2019 12:46",
-      "title": "Detection anomalie",
-      "description": "L'anomalie suivante a ete detectee : rail endommage.",
-      "coordinates": "40° 27′ 11″ N 79° 58′ 60″ W"
+      "title": "Détection anomalie",
+      "description": "L'anomalie suivante a été détectée : rail endommagé.",
+      "coordinates": "test"
     },
     {
       "id": 4,
       "time": "10/07/2019 12:46",
       "title": "Fin routine",
       "description": "L'appareil 14 a fini sa routine.",
-      "coordinates": "40° 26′ 02″ N 79° 58′ 49″ W"
+      "coordinates": "test"
     }
   ],
   "comments": [
