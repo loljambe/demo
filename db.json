@@ -1,32 +1,32 @@
-{
+ï»¿{
   "posts": [
     {
       "id": 1,
       "time": "10/07/2019 12:07",
-      "title": "Démarrage routine",
-      "description": "L'appareil 14 a commencé sa routine.",
-      "coordinates" : "test"
+      "title": "Demarrage routine",
+      "description": "L'appareil 14 a commence sa routine.",
+      "coordinates": "40Â° 26â€² 46â€³ N 79Â° 58â€² 56â€³ W"
     },
     {
       "id": 2,
       "time": "10/07/2019 12:23",
-      "title": "Détection anomalie",
-      "description": "L'anomalie suivante a été détectée : écartement des rails de 2,14cm.",
-      "coordinates": "test"
+      "title": "Detection anomalie",
+      "description": "L'anomalie suivante a ete detectee : ecartement des rails de 2,14cm.",
+      "coordinates": "40Â° 26â€² 49â€³ N 79Â° 57â€² 22â€³ W"
     },
     {
       "id": 3,
       "time": "10/07/2019 12:46",
-      "title": "Détection anomalie",
-      "description": "L'anomalie suivante a été détectée : rail endommagé.",
-      "coordinates": "test"
+      "title": "Detection anomalie",
+      "description": "L'anomalie suivante a ete detectee : rail endommage.",
+      "coordinates": "40Â° 27â€² 11â€³ N 79Â° 58â€² 60â€³ W"
     },
     {
       "id": 4,
       "time": "10/07/2019 12:46",
       "title": "Fin routine",
       "description": "L'appareil 14 a fini sa routine.",
-      "coordinates": "test"
+      "coordinates": "40Â° 26â€² 02â€³ N 79Â° 58â€² 49â€³ W"
     }
   ],
   "comments": [
